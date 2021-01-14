@@ -1,0 +1,15 @@
+{
+    "name": "david/mvc",
+    "authors": [
+        {
+            "name": "donghangwu",
+            "email": "donghangwu@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "app\\":"./"
+        }
+    }
+}
